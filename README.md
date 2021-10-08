@@ -5,6 +5,11 @@
 - 🖥️ Deep Learning
 - 🌱 Bioinformatics
 
+#### I'm working on
+
+- 🧪 3D Molecules Representation
+- 🧬 MHC (Major Histocompatibility Complex) Binding Prediction
+
 <!--
 **JosieHong/JosieHong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
