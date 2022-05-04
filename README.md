@@ -7,7 +7,7 @@
 
 #### I'm working on
 
-- 🧪 Molecular tandem mass spectra prediction
+- 🧪 Molecular Tandem Mass Spectra Prediction
 - 🧬 Major Histocompatibility Complex (MHC) Binding Prediction
 
 #### I used to worked on
