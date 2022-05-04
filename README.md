@@ -7,8 +7,8 @@
 
 #### I'm working on
 
-- 🧪 3D Molecules Representation
-- 🧬 MHC (Major Histocompatibility Complex) Binding Prediction
+- 🧪 Molecular tandem mass spectra prediction
+- 🧬 Major Histocompatibility Complex (MHC) Binding Prediction
 
 #### I used to worked on
 
