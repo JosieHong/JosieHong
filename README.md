@@ -10,7 +10,7 @@
 - 🧪 Molecular Tandem Mass Spectra Prediction
 - 🧬 Major Histocompatibility Complex (MHC) Binding Prediction
 
-#### I used to worked on
+#### I used to work on
 
 - 🎞️ Video Object Track and Segmentation
 
