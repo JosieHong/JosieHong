@@ -7,7 +7,8 @@
 
 #### I'm working on
 
-- 🧬🔮 Molecular Mass Spectra / Properties Prediction
+- 🧬 Molecular Representation Learning
+- 🔮 Molecular Mass Spectra / Properties Prediction
 
 #### I used to work on
 
