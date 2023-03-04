@@ -2,13 +2,12 @@
 
 #### I'm a PhD student in Computer Science
 
-- 🖥️ Deep Learning
-- 🌱 Bioinformatics
+- 🖥️👩‍💻 Deep Learning
+- 🌱🧪 Bioinformatics
 
 #### I'm working on
 
-- 🧪 Molecular Tandem Mass Spectra Prediction
-- 🧬 Major Histocompatibility Complex (MHC) Binding Prediction
+- 🧬🔮 Molecular Mass Spectra / Properties Prediction
 
 #### I used to work on
 
