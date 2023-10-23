@@ -2,17 +2,19 @@
 
 #### I'm a PhD student in Computer Science
 
-- 🖥️👩‍💻 Deep Learning
-- 🌱🧪 Bioinformatics
+- 🖥️ Deep Learning
+- 🧬 Structural Bioinformatics
+- 🧪 Analytical Chemistry
 
 #### I'm working on
 
-- 🧬 Molecular Representation Learning
-- 🔮 Molecular Mass Spectra / Properties Prediction
+- Molecular representation learning
+- Molecular tandem mass spectra/properties prediction
+- Small molecule identification
 
 #### I used to work on
 
-- 🎞️ Video Object Track and Segmentation
+- Video object tracking and segmentation
 
 <!--
 **JosieHong/JosieHong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
