@@ -1,8 +1,9 @@
-### Hi there 👋
+![image](https://github.com/JosieHong/JosieHong/assets/26590190/ce0c048c-0509-4662-b1f6-57322cb95cda)### Hi there 👋
 
 #### I'm a PhD student in Computer Science
 
-- 🖥️ Deep Learning
+- 🖥️![image](https://github.com/JosieHong/JosieHong/assets/26590190/fa6c8099-c346-4cc4-99fd-a9061e02cfca)
+ Deep Learning
 - 🧬 Structural Bioinformatics
 - 🧪 Analytical Chemistry
 
