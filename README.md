@@ -3,7 +3,7 @@
 #### I'm a PhD student in Computer Science
 
 - 🖥️ Deep Learning
-- 🧬 Structural Bioinformatics
+- 🧬 Computational Biology
 - 🧪 Analytical Chemistry
 
 #### I'm working on
